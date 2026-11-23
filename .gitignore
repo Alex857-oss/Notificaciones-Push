@@ -1,0 +1,4 @@
+node_modules/
+# La cuenta de servicio de Firebase NUNCA va en el repositorio ni en la app
+*adminsdk*.json
+cuenta-de-servicio*.json
